@@ -1,10 +1,10 @@
 #pragma once
 
-#include "Board.h"
+#include "BattleBoard.h"
 
 class Game {
 private:
-	Board board;
+
 
 public:
 	Game();
